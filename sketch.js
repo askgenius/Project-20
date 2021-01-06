@@ -8,10 +8,10 @@ function preload(){
 
 function setup(){
     canvas = createCanvas(800,600);
-
+    var name ="Akshara";
     //create 4 different surfaces
 
-
+ 
 
     //create box sprite and give velocity
 
